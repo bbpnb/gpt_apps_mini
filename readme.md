@@ -1,0 +1,1 @@
+try some mini apps based on gpt
